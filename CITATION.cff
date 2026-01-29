@@ -1,9 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this project, please cite it."
 title: "S&P 500 Multifactor Ranking + Finviz CSV Scoring"
-authors:
-  - family-names: "YOUR_LAST_NAME"
-    given-names: "YOUR_FIRST_NAME"
 version: "0.1.0"
 date-released: "2026-01-29"
 license: "MIT"
